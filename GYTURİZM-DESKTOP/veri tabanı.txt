@@ -1,0 +1,54 @@
+*nerden tablosu
+sinop 
+samsun
+kastamonu
+karabük
+bolu
+sakarya
+istanbul
+****************
+*nereye1 tablosu(sinop seçilirse)
+samsun
+kastamonu
+karabük
+bolu
+sakarya
+istanbul
+*************
+nereye2(samsun seçilirse)
+sinop
+******************
+nereye3(kastamonu seçilirse)
+sinop
+karabük 
+bolu
+sakarya
+istanbul
+*****************
+nereye4(karabük seçilirse)
+kastamonu
+sinopa
+bolu
+sakarya
+istanbul
+-*************
+nereye5(bolu seçilirse)
+sinop
+kastaonu
+karabük
+sakarya
+istanbul
+**********
+nereye6(sakarya seçilirse)
+sinop
+kastamonu
+karabük
+bolu
+istanbul
+******************
+nereye7(istanbul seçilirse)
+sakarya
+bolu
+karabük
+kastamonu
+sinop

@@ -1,0 +1,81 @@
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\bin\Debug\10.03.2020.exe.config
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\bin\Debug\10.03.2020.exe
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\bin\Debug\10.03.2020.pdb
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\10.03.2020.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\10.03.2020.exe
+C:\Users\PC01\Desktop\10.03.2020\10.03.2020\obj\Debug\10.03.2020.pdb
+G:\10.03.2020\10.03.2020\bin\Debug\10.03.2020.exe.config
+G:\10.03.2020\10.03.2020\bin\Debug\10.03.2020.exe
+G:\10.03.2020\10.03.2020\bin\Debug\10.03.2020.pdb
+G:\10.03.2020\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+G:\10.03.2020\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+G:\10.03.2020\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+G:\10.03.2020\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+G:\10.03.2020\10.03.2020\obj\Debug\10.03.2020.exe
+G:\10.03.2020\10.03.2020\obj\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\bin\Debug\10.03.2020.exe.config
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\bin\Debug\10.03.2020.exe
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\bin\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.exe
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.pdb
+E:\10.03.2020 kopyası\10.03.2020\bin\Debug\10.03.2020.exe.config
+E:\10.03.2020 kopyası\10.03.2020\bin\Debug\10.03.2020.exe
+E:\10.03.2020 kopyası\10.03.2020\bin\Debug\10.03.2020.pdb
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.csproj.CoreCompileInputs.cache
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.exe
+E:\10.03.2020 kopyası\10.03.2020\obj\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\10.03.2020 kopyası\10.03.2020\obj\Debug\_10._03._2020.HESAPLA.resources
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\bin\Debug\10.03.2020.exe.config
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\bin\Debug\10.03.2020.exe
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\bin\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\_10._03._2020.HESAPLA.resources
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\10.03.2020.exe
+C:\Users\user\Desktop\GY TURİZM 13.04\10.03.2020\obj\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\bin\Debug\10.03.2020.exe.config
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\bin\Debug\10.03.2020.exe
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\bin\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\_10._03._2020.HESAPLA.resources
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\10.03.2020.exe
+C:\Users\user\Desktop\GY TURİZM\10.03.2020\obj\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\12345\10.03.2020\bin\Debug\10.03.2020.exe.config
+C:\Users\user\Desktop\12345\10.03.2020\bin\Debug\10.03.2020.exe
+C:\Users\user\Desktop\12345\10.03.2020\bin\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\_10._03._2020.HESAPLA.resources
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\10.03.2020.csproj.CopyComplete
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\10.03.2020.exe
+C:\Users\user\Desktop\12345\10.03.2020\obj\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\bin\Debug\10.03.2020.exe.config
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\bin\Debug\10.03.2020.exe
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\bin\Debug\10.03.2020.pdb
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\10.03.2020.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\_10._03._2020.Form1.resources
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\_10._03._2020.HESAPLA.resources
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\_10._03._2020.Properties.Resources.resources
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\10.03.2020.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\10.03.2020.csproj.CopyComplete
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\10.03.2020.exe
+C:\Users\user\Desktop\GYTURİZM FİNİSH\10.03.2020\obj\Debug\10.03.2020.pdb
